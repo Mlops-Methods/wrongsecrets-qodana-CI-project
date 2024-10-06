@@ -1,3 +1,5 @@
+#fecth it from qodana in IJ ide
+#tools>qodana>add qodana to ci pipeline > select github actions
 name: Qodana
 on:
   workflow_dispatch:
